@@ -1,6 +1,4 @@
-# ==============================================================================
 # 4-Point Perspective Transformation (Homography) Pipeline
-# ==============================================================================
 # Demonstrates 3x3 Perspective Transformation mapping:
 # 1. Synthesizes a distorted target image (e.g., a document shot at an angle).
 # 2. Defines 4 non-collinear corner source points and target destination coordinates.
