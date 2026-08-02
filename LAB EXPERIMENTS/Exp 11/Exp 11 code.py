@@ -1,6 +1,4 @@
-# ==============================================================================
 # Affine Transformation Pipeline
-# ==============================================================================
 # Demonstrates 2D Affine Transformation mapping:
 # 1. Synthesizes a structured test pattern with a reference grid.
 # 2. Defines 3 non-collinear source points and their corresponding target points.
