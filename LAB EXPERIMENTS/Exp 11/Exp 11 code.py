@@ -4,7 +4,7 @@
 # 2. Defines 3 non-collinear source points and their corresponding target points.
 # 3. Computes the 2x3 Affine Transformation Matrix (M).
 # 4. Warps the spatial coordinate grid using cv2.warpAffine.
-# ==============================================================================
+
 
 import numpy as np
 import matplotlib.pyplot as plt
