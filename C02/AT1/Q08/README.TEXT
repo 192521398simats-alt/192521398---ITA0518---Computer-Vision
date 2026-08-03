@@ -1,0 +1,6 @@
+Region-Based Segmentation
+(a) Explain region growing in segmentation.
+(b) Given pixel intensities:
+[1   0   2]
+If seed = 50 and threshold difference = 5, identify pixels belonging to the region.
+
