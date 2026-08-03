@@ -1,0 +1,8 @@
+Power-Law (Gamma) Transformation
+A grayscale image is enhanced using power-law transformation.
+(a) Interpret the role of gamma correction in image enhancement.
+(b) Justify the use of transformation s=cr^γ, where γ=0.5, c=1.
+(c) Apply the transformation step-by-step to pixel values:
+r=[25,100,225].
+(d) Compute the transformed values accurately.
+(e) Interpret the results in terms of brightness enhancement.
