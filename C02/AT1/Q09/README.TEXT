@@ -1,0 +1,7 @@
+Combined Enhancement & Segmentation
+(a) Explain why smoothing is applied before segmentation.
+(b) Given image values:
+[1   0   5]
+First apply averaging (assume mean = 48), then threshold at T=50.
+Determine final segmented output.
+
