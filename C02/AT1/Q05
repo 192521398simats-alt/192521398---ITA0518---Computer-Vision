@@ -1,5 +1,0 @@
-5. Frequency Domain Filtering
-(a) Differentiate low-pass and high-pass filtering in frequency domain.
-(b) Given frequency components:
-F=[100,80,40,20]
-Apply a low-pass filter that retains only the first two components. Write the filtered output.
