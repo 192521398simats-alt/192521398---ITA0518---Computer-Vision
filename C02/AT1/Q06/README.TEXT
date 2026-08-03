@@ -1,0 +1,6 @@
+Thresholding
+(a) Explain global thresholding in segmentation.
+(b) Given pixel values:
+[200]
+Apply threshold T=100. Assign values (0 or 1).
+
