@@ -1,0 +1,4 @@
+2. Log Transformation
+(a) Explain how log transformation enhances low-intensity pixels.
+(b) Given s=clog⁡(1+r), where c=10, compute s for:
+r=[0,10,50,100]
