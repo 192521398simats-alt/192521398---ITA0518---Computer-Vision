@@ -1,0 +1,5 @@
+1. Grey Level Transformation
+(a) Explain the purpose of grey level transformation in image enhancement.
+(b) Apply a negative transformation s=255-r to the pixel values:
+r=[50,100,150,200]
+Compute the transformed values.
