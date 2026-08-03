@@ -1,0 +1,19 @@
+3. Histogram Processing
+
+(a) Explain the role of histogram equalization in contrast enhancement.
+
+(b) Given a 3-bit image with histogram:
+
+  Intensity      Frequency
+
+      0              2
+
+      1              2
+
+      2              4
+
+      3              8
+
+Compute the cumulative distribution and equalized intensity
+
+values.
