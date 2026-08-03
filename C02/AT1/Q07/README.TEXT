@@ -1,0 +1,7 @@
+Edge Detection
+(a) Explain the concept of edge detection.
+(b) Apply the Sobel operator (horizontal):
+[-1 -2 -1,0    0    0,   1   2   1 ]
+to:
+[10   10   10,   20   20   20,30   30   30 ]
+Compute the gradient at the center.
