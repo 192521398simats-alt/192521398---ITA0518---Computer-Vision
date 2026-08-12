@@ -1,3 +1,4 @@
+#Perform Edge detection using canny method
 import cv2
 import numpy as np
 # import urllib.request # Not needed if reading from local file
