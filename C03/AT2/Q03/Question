@@ -1,0 +1,3 @@
+Hough Transform for Shape Detection
+A system uses Hough Transform to detect circular shapes but fails in complex backgrounds.
+Analyze the limitations and explain how preprocessing or parameter tuning can improve detection.
