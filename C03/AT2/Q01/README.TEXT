@@ -1,0 +1,3 @@
+Hough Transform in Noisy Images
+A system uses Hough Transform to detect lines in noisy images but produces inaccurate results.
+Analyze the effect of noise on detection and suggest improvements based on preprocessing or parameter selection.
