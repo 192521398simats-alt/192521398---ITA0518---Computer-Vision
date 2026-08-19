@@ -1,0 +1,3 @@
+Feature Matching with Noise
+Feature matching between two images fails due to noise in one image.
+Analyze the impact of noise and explain how preprocessing improves matching accuracy.
